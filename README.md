@@ -1,8 +1,5 @@
 # 👩‍💻 Alugoju Sujatha
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="AI Girl Coding">
-</p>
 
 **🎓 BTech in Data Science | 🌐 Web Developer | 🤖 Aspiring Data Scientist**  
 📍 Tadepalligudem, Andhra Pradesh  
