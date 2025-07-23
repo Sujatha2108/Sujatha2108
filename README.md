@@ -1,9 +1,5 @@
 # 👩‍💻 Alugoju Sujatha
 
-<p align="center">
-  <img src="https://i.imgur.com/hXvGkli.png" width="300" alt="AI Cartoon Girl Coding">
-</p>
-
 **🎓 BTech in Data Science | 🌐 Web Developer | 🤖 Aspiring Data Scientist**  
 📍 Tadepalligudem, Andhra Pradesh  
 📫 [alugoju2004@gmail.com](mailto:alugoju2004@gmail.com)  
