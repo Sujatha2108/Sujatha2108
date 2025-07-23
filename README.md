@@ -1,5 +1,8 @@
 # 👩‍💻 Alugoju Sujatha
 
+<p align="center">
+  <img src="https://i.imgur.com/hXvGkli.png" width="300" alt="AI Cartoon Girl Coding">
+</p>
 
 **🎓 BTech in Data Science | 🌐 Web Developer | 🤖 Aspiring Data Scientist**  
 📍 Tadepalligudem, Andhra Pradesh  
@@ -82,7 +85,7 @@ VS Code • Git & GitHub • Jupyter Notebook • MySQL • MongoDB
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujatha2108&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujatha2108&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujatha2108&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -90,4 +93,3 @@ VS Code • Git & GitHub • Jupyter Notebook • MySQL • MongoDB
 _“Always curious. Always learning.”_
 
 ---
-
