@@ -1,7 +1,7 @@
 # 👩‍💻 Alugoju Sujatha
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="AI Girl Coding">
+  <img src="https://chat.openai.com/share-image/file_000000002e2061f58d917691279adb50" width="300" alt="Cartoon AI Girl Student Coding">
 </p>
 
 **🎓 BTech in Data Science | 🌐 Web Developer | 🤖 Aspiring Data Scientist**  
@@ -93,4 +93,3 @@ VS Code • Git & GitHub • Jupyter Notebook • MySQL • MongoDB
 _“Always curious. Always learning.”_
 
 ---
-
