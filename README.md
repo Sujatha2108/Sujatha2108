@@ -52,9 +52,12 @@ I work on data projects, full-stack apps, and I’m always eager to grow with ne
 
 ## 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sujatha2108&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
 
 ---
 
